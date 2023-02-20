@@ -1,3 +1,1 @@
-print ('Hello World')
-
-print('bobo')
+print ('mak kau hijau')
